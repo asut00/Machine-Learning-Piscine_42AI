@@ -1,5 +1,5 @@
 
-# Machine Learning Bootcamp - 42AI 🦾
+# Machine Learning Course - 42AI 🦾
 
 ## Overview
 
