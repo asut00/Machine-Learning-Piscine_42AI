@@ -9,7 +9,7 @@ This repository contains all the materials, exercises, and solutions from the we
 
 The bootcamp is divided into several modules, each focusing on key Machine Learning concepts and techniques. Below is an outline of the modules:
 
-### Day 1: Stepping into Machine Learning
+### Part 1: Stepping into Machine Learning
 - **Topics Covered:**
   - Introduction to Machine Learning
   - Supervised vs. Unsupervised Learning
@@ -22,7 +22,7 @@ The bootcamp is divided into several modules, each focusing on key Machine Learn
   - Implementing a `Matrix` and `Vector` class with basic operations
   - Creating a basic statistical class, `TinyStatistician`, for computing mean, median, variance, and standard deviation
 
-### Day 2: Univariate Linear Regression
+### Part 2: Univariate Linear Regression
 - **Topics Covered:**
   - Gradient Descent for Linear Regression
   - Cost function minimization
@@ -32,7 +32,7 @@ The bootcamp is divided into several modules, each focusing on key Machine Learn
   - Implementing gradient descent iteratively and using vectorization
   - Training a regression model to predict outcomes from one feature
 
-### Day 3: Multivariate Linear Regression
+### Part 3: Multivariate Linear Regression
 - **Topics Covered:**
   - Extending regression models to handle multiple features
   - Polynomial regression for non-linear relationships
@@ -43,8 +43,7 @@ The bootcamp is divided into several modules, each focusing on key Machine Learn
   - Evaluating model performance with loss functions
   - Implementing polynomial feature expansion
 
-### Day 4: Logistic Regression  
-
+### Part 4: Logistic Regression  
 **Topics Covered:**  
 - Introduction to Logistic Regression  
   - Logistic hypothesis  
@@ -58,8 +57,7 @@ The bootcamp is divided into several modules, each focusing on key Machine Learn
 - Building a logistic regression model using gradient descent.  
 - Evaluating performance through classification metrics (confusion matrix, F1-score).  
 
-### Day 5: Regularization  
-
+### Part 5: Regularization  
 **Topics Covered:**  
 - Understanding Overfitting  
   - Causes and how to detect overfitting  
